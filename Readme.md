@@ -13,3 +13,6 @@ https://github.com/addy-dclxvi/xfwm4-theme-collections#xfwm-gaps-joy
 # Terminal
 I use ghostty, but there is not any good ways to install ghostty just yet. My .zshrc uses soar to install it, but check the official site for updates. 
 https://ghostty.org/docs/install/binary
+
+# Baseline.sh
+This script is designed to get the tools that the dots require installed and to support my hotkeys
