@@ -10,3 +10,6 @@ https://github.com/dev-andi/xfce-blur-effects
 # Xfwm Theme
 https://github.com/addy-dclxvi/xfwm4-theme-collections#xfwm-gaps-joy
 
+# Terminal
+I use ghostty, but there is not any good ways to install ghostty just yet. My .zshrc uses soar to install it, but check the official site for updates. 
+https://ghostty.org/docs/install/binary
