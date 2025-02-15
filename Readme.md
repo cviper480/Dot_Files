@@ -3,3 +3,9 @@
 
 # Fastfestch
 ![image](https://github.com/user-attachments/assets/09447906-763c-44ce-889f-977dbc6133ca)
+
+# XFCE Blur
+https://github.com/dev-andi/xfce-blur-effects
+
+
+
