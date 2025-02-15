@@ -7,5 +7,6 @@
 # XFCE Blur
 https://github.com/dev-andi/xfce-blur-effects
 
-
+# Xfwm Theme
+https://github.com/addy-dclxvi/xfwm4-theme-collections#xfwm-gaps-joy
 
