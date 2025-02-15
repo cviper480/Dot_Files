@@ -6,7 +6,7 @@ echo "[*] Updating package lists..."
 sudo apt update
 
 echo "[*] Installing packages: flameshot, kitty, fastfetch, rofi, neovim, cargo, git"
-sudo apt install -y flameshot kitty fastfetch rofi neovim cargo git
+sudo apt install -y flameshot kitty fastfetch rofi neovim cargo git wmctrl xdotool 
 
 # --- Ensure Cargo’s bin directory is in your PATH ---
 if ! echo "$PATH" | grep -q "$HOME/.cargo/bin"; then
