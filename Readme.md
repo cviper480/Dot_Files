@@ -17,7 +17,7 @@ https://ghostty.org/docs/install/binary
 # Baseline.sh
 This script is designed to get the tools that the dots require installed and to support my hotkeys
 
-#Additional hotkeys
+# Additional hotkeys
 ## Use this to display all open applications in rofi
 ```
 /usr/bin/rofi -show window -modi window -theme '~/.config/rofi/app-launcher/launch.rasi'
@@ -27,14 +27,14 @@ This script is designed to get the tools that the dots require installed and to 
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
-## Plugins
+## ZSH Plugins
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
-## Fonts
+## Install Fonts
 CaskaydiaCoveNerdFont
 ```
 wget -O ~/Downloads/CaskaydiaCoveNerdFontComplete.ttf "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/CaskaydiaCove/CaskaydiaCove%20Nerd%20Font%20Complete.ttf"
