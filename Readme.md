@@ -16,3 +16,9 @@ https://ghostty.org/docs/install/binary
 
 # Baseline.sh
 This script is designed to get the tools that the dots require installed and to support my hotkeys
+
+#Additional hotkeys
+## Use this to display all open applications in rofi
+```
+/usr/bin/rofi -show window -modi window -theme '~/.config/rofi/app-launcher/launch.rasi'
+```
