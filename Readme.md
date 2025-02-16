@@ -5,8 +5,7 @@ I have stolen a lot from TypeCraft (https://github.com/typecraft-dev/dotfiles) (
 
 I also shrink down the taskbar and remove all of the shortcuts. I like to keep it very minimal since my workflow revolves around hotkeys.
 
-![image](https://github.com/user-attachments/assets/9f4e04e2-c7d9-482a-9834-8890745a8ef4)
-
+![image](https://github.com/user-attachments/assets/1c2d9aea-2228-4f3a-a52b-0ca7837bd694)
 
 # Terminal Rice
 ![image](https://github.com/user-attachments/assets/70479c75-8ece-4e10-af46-ad1e0ff5ef12)
