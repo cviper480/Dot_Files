@@ -22,3 +22,29 @@ This script is designed to get the tools that the dots require installed and to 
 ```
 /usr/bin/rofi -show window -modi window -theme '~/.config/rofi/app-launcher/launch.rasi'
 ```
+# Other stuff not in the script that needs to be added
+## Oh-my-ZSH
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+## Plugins
+```
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+```
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+```
+## Fonts
+CaskaydiaCoveNerdFont
+```
+wget -O ~/Downloads/CaskaydiaCoveNerdFontComplete.ttf "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/CaskaydiaCove/CaskaydiaCove%20Nerd%20Font%20Complete.ttf"
+```
+```
+mkdir -p ~/.local/share/fonts
+```
+```
+mv ~/Downloads/CaskaydiaCoveNerdFontComplete.ttf ~/.local/share/fonts/
+```
+```
+fc-cache -fv
+```
