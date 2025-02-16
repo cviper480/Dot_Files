@@ -1,5 +1,5 @@
 # About
-This is roughly what I use to set up my kali XFCE VM. This will work on other display managers, with exception of the stuff that is unique to XFCE, such as the blur, and the config files in xfce4.
+This is roughly what I use to set up my Kali XFCE VM. This will work on other display managers, with exception of the stuff that is unique to XFCE, such as the blur, and the config files in xfce4.
 
 # Terminal Rice
 ![image](https://github.com/user-attachments/assets/70479c75-8ece-4e10-af46-ad1e0ff5ef12)
