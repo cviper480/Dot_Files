@@ -3,6 +3,8 @@ This is roughly what I use to set up my Kali XFCE VM. It will work on other disp
 
 I have stolen a lot from TypeCraft (https://github.com/typecraft-dev/dotfiles) (https://www.youtube.com/@typecraft_dev) regarding the Starship theme. All of the color themes are Dracula.
 
+I also shrink down the taskbar and remove all of the shortcuts. I like to keep it very minimal since my workflow revolves around hotkeys.
+
 ![image](https://github.com/user-attachments/assets/9f4e04e2-c7d9-482a-9834-8890745a8ef4)
 
 
