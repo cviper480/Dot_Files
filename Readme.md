@@ -1,7 +1,7 @@
 # About
-This is roughly what I use to set up my Kali XFCE VM. This will work on other display managers, with exception of the stuff that is unique to XFCE, such as the blur, and the config files in xfce4.
+This is roughly what I use to set up my Kali XFCE VM. It will work on other display managers, except for features unique to XFCE, such as the blur effect and the configuration files in xfce4.
 
-I have stollen allot from TypeCraft (https://github.com/typecraft-dev/dotfiles) (https://www.youtube.com/@typecraft_dev) inregards to the starship theme. All of the color themes are dracula. 
+I have stolen a lot from TypeCraft (https://github.com/typecraft-dev/dotfiles) (https://www.youtube.com/@typecraft_dev) regarding the Starship theme. All of the color themes are Dracula.
 
 # Terminal Rice
 ![image](https://github.com/user-attachments/assets/70479c75-8ece-4e10-af46-ad1e0ff5ef12)
