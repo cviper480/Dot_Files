@@ -62,3 +62,6 @@ mv ~/Downloads/CaskaydiaCoveNerdFontComplete.ttf ~/.local/share/fonts/
 ```
 fc-cache -fv
 ```
+### Icons
+create .icons folder within .config  and then go to setting - appearance to add them
+https://www.xfce-look.org/p/2234790
