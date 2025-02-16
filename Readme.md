@@ -23,28 +23,28 @@ https://ghostty.org/docs/install/binary
 This script is designed to get the tools that the dots require installed and to support my hotkeys (tested on XFCE)
 
 # Additional hotkeys
-## Use this to display all open applications in rofi
+### Use this to display all open applications in rofi
 ```
 /usr/bin/rofi -show window -modi window -theme '~/.config/rofi/app-launcher/launch.rasi'
 ```
-# Other stuff not in the script that needs to be added
-## Starship
+# Other Installs
+### Starship
 ```
 curl -sS https://starship.rs/install.sh | sh
 ```
 
-## Oh-my-ZSH
+### Oh-my-ZSH
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
-## ZSH Plugins
+### ZSH Plugins
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
 ```
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
-## Install Fonts
+### Install Fonts
 CaskaydiaCoveNerdFont
 ```
 wget -O ~/Downloads/CaskaydiaCoveNerdFontComplete.ttf "https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/patched-fonts/CaskaydiaCove/CaskaydiaCove%20Nerd%20Font%20Complete.ttf"
