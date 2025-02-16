@@ -6,7 +6,7 @@ I have stolen a lot from TypeCraft (https://github.com/typecraft-dev/dotfiles) (
 # Terminal Rice
 ![image](https://github.com/user-attachments/assets/70479c75-8ece-4e10-af46-ad1e0ff5ef12)
 
-# Fastfestch
+# Fastfetch
 ![image](https://github.com/user-attachments/assets/09447906-763c-44ce-889f-977dbc6133ca)
 
 # XFCE Blur
